@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists
 https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
 https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
