@@ -43,16 +43,20 @@ cert.mgt.xboxlive.com
 xkms.xboxlive.com
 def-vef.xboxlive.com
 notify.xboxlive.com
-help.ui.xboxlive.com licensing.xboxlive.com
+help.ui.xboxlive.com
+licensing.xboxlive.com
 eds.xboxlive.com
 www.xboxlive.com
 v10.vortex-win.data.microsoft.com
 settings-win.data.microsoft.com
 s.gateway.messenger.live.com
 client-s.gateway.messenger.live.com
-ui.skype.com pricelist.skype.com
-apps.skype.com m.hotmail.com
-sa.symcb.com s{1..5}.symcb.com 
+ui.skype.com
+pricelist.skype.com
+apps.skype.com
+m.hotmail.com
+sa.symcb.com
+s{1..5}.symcb.com 
 officeclient.microsoft.com
 dev.virtualearth.net
 ecn.dev.virtualearth.net
@@ -109,11 +113,13 @@ portal.fb.com
 star.c10r.facebook.com
 star-mini.c10r.facebook.com
 b-api.facebook.com
-fb.me bigzipfiles.facebook.com
+fb.me
+bigzipfiles.facebook.com
 l.facebook.com
 directvnow.com
 directvapplications.hb.omtrdc.net
-s.zkcdn.net js.maxmind.com
+s.zkcdn.net
+js.maxmind.com
 www.asadcdn.com
 code.bildstatic.de
 de.ioam.de
@@ -143,7 +149,8 @@ nine.plugins.plexapp.com
 staging.plex.tv
 app.plex.tv
 o1.email.plex.tv
-o2.sg0.plex.tv dashboard.plex.tv
+o2.sg0.plex.tv
+dashboard.plex.tv
 gravatar.com
 thetvdb.com
 themoviedb.com
@@ -185,5 +192,6 @@ gdlp01.c-wss.com
 h-sdk.online-metrix.net
 p11.techlab-cdn.com
 logs.juspay.in
-appboy-images.com rest.iad-03.braze.com
+appboy-images.com
+rest.iad-03.braze.com
 mobileandroidapi.punchh.com
